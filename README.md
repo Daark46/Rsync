@@ -65,9 +65,14 @@ fi
 ```
 
 ![alt text](https://github.com/Daark46/Rsync/blob/main/2.1.png)
+
 ![alt text](https://github.com/Daark46/Rsync/blob/main/2.2.png)
+
 ![alt text](https://github.com/Daark46/Rsync/blob/main/2.3.png)
+
 ![alt text](https://github.com/Daark46/Rsync/blob/main/2.4.png)
+
 ![alt text](https://github.com/Daark46/Rsync/blob/main/2.5.png)
+
 ![alt text](https://github.com/Daark46/Rsync/blob/main/2.6.png)
 
